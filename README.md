@@ -3,5 +3,5 @@ Concrete compressive strength is a key factor in determining the safety and perf
 
 This project uses machine learning models, including Linear Regression, Random Forest, and XGBoost, to predict concrete strength based on its composition and age. The goal is to capture complex relationships between input variables and provide accurate, data-driven predictions.
 
-The project highlights how AI techniques can be applied to solve practical civil engineering problems and support more efficient and informed design decisions.
-
+📊 Results
+RMSE = 4.5076     R^2 = 0.9211     using XGBoost
